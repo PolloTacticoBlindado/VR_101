@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Hands.unity
     guid: fd066a7f4b2e1df4ba316a4cf6433cd9
+  - enabled: 1
+    path: Assets/Scenes/Examen.unity
+    guid: e0ce05d36f4d1294f996b3ff3b940903
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 30cee755f0d60e647ad8ed3473aed860, type: 2}
